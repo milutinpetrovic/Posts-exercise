@@ -1,0 +1,8 @@
+{
+  "posts": [{ "id": 1, "title": "Lorem ipsum dolor sit amet", "author": "John"}, 
+  { "id": 2, "title": "Sit saepe aliquidd dolorem velit et temporibus", "author": "Ann"},
+  { "id": 3, "title": "The jay, pig, fox, zebra, and my wolves quack!", "author": "Steve"},
+  { "id": 4, "title": "The quick, brown fox jumps over a lazy dog", "author": "Marry"},
+  { "id": 5, "title": "Baz, get my woven flax jodhpurs", "author": "Axl"},
+  { "id": 6, "title": "Alex Trebek's fun TV quiz game", "author": "John"}]
+}
